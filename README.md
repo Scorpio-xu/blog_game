@@ -2,8 +2,9 @@
 
 小游戏代码来源于
 https://github.com/kuole-o/blog_game
+和
 https://github.com/SadTomlzr/catch-cat
 
-有改动
+感谢各位大佬。
 
-访问https://qiming.info/fun/进行畅玩～
+欢迎访问https://qiming.info/fun ，进行畅玩～
