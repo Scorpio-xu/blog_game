@@ -7,4 +7,4 @@ https://github.com/SadTomlzr/catch-cat
 
 感谢各位大佬。
 
-欢迎访问https://qiming.info/fun ，进行畅玩～
+欢迎访问https://xuqiming.tech/fun ，进行畅玩～
